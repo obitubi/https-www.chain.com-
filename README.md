@@ -1,3 +1,3 @@
-# https-www.chain.com-
+# https-www.chain.com
 
 ## Subdomain Takeover by obitubi
